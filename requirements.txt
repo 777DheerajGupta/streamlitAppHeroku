@@ -1,0 +1,5 @@
+1.numpy
+2.pickle-mixin
+3.streamlit
+4.streamlit-option-menu
+4.scikit-learn
